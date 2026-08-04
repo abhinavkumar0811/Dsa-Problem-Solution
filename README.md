@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
