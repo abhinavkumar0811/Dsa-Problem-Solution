@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
