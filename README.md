@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0027-remove-element) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3941-password-strength](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3941-password-strength) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
