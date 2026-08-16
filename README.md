@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 | [3151-special-array-i](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3151-special-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 | [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
