@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 | [3151-special-array-i](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3941-password-strength](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0189-rotate-array) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
