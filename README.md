@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
+| [3151-special-array-i](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3151-special-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
