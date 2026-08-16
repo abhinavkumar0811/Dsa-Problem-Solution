@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 | [3151-special-array-i](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3151-special-array-i) |
+| [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
+| [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
+| [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
