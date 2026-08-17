@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [3941-password-strength](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3941-password-strength) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
