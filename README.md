@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
