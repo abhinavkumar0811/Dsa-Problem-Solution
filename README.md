@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
