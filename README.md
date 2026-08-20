@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3941-password-strength](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3941-password-strength) |
 ## Prefix Sum
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
