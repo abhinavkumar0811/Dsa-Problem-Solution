@@ -4,27 +4,30 @@
  */
 var sortedSquares = function(nums) {
     
-    nums.forEach((el, idx) =>{
-        nums[idx] = el*el
-    })
-    
-    // buble sort
-    for(let i=0; i<nums.length-1; i++){
-        
-        for(let j=0; j<nums.length-i-1; j++){
+    let arr = []
 
-            if(nums[j]>nums[j+1]){
+    let left =0
+    let right = nums.length-1
+    let update = nums.length-1
 
-                let temp = nums[j]
-                nums[j] = nums[j+1]
-                nums[j+1] = temp
+    while(left<=right){
 
-            }
-           
+        let leftVal = nums[left] * nums[left]
+        let rightVal = nums[right] *nums[right]
+
+        if(leftVal > rightVal){
+            arr[update] = leftVal
+            left++
+            update--
+
+            
+        }else{
+            arr[update] = rightVal
+            right--
+            update--
+            
         }
     }
 
-
-
-    return nums
+    return arr
 };
