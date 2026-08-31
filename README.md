@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2439-minimize-maximum-of-array) |
 | [3152-special-array-ii](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/3152-special-array-ii) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
