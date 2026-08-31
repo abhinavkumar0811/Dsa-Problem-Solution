@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhinavkumar0811/leetcode-solution/tree/master/0704-binary-search) |
