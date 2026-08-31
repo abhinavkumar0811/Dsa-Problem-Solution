@@ -7,24 +7,16 @@ class Solution {
     pushZerosToEnd(arr) {
         // code here
         
-        let count=0
-        
+        let write = 0
         for(let read=0; read<arr.length; read++){
             
-                if(arr[read] !==0){
-                    
-                    arr[count] = arr[read]
-                    count++
-                }
+            if(arr[read] !==0){
+                arr[write] = arr[read]
+                write++
+            }
         }
         
-        
-        for(let rem=count; rem<arr.length; rem++){
-            
-            arr[count] = 0
-            count++
-        }
-        
+        arr.fill(0, write, arr.length)
         return arr
         
     }
